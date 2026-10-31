@@ -1,0 +1,22 @@
+{
+ "sklearn": "1.7.2",
+ "C": 3,
+ "char": false,
+ "n_latih": 1088,
+ "cv_akurasi": 0.9798,
+ "cv_f1": 0.9794,
+ "game": {
+  "n": 36,
+  "akurasi": 1.0,
+  "presisi": 1.0,
+  "recall": 1.0,
+  "f1": 1.0
+ },
+ "mandiri": {
+  "n": 78,
+  "akurasi": 0.9872,
+  "presisi": 1.0,
+  "recall": 0.975,
+  "f1": 0.9873
+ }
+}
